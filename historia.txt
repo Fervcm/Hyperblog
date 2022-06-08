@@ -7,10 +7,7 @@ Experimento 1
 
 main 1
 
-<<<<<<< HEAD
 main 2
 
 Hoy hablaremos de su historia
-=======
 Hoy hablaremos de su historia   
->>>>>>> abbfdf6 (experimento 1)
