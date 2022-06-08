@@ -3,8 +3,14 @@ Esta es la historia de Fernando Vacca
 Fernando Vacca tien 30 años y nacio en Colombia
 viviendo en todo el mundo
 
+Experimento 1
+
 main 1
 
+<<<<<<< HEAD
 main 2
 
 Hoy hablaremos de su historia
+=======
+Hoy hablaremos de su historia   
+>>>>>>> abbfdf6 (experimento 1)
