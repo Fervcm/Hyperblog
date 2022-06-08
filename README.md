@@ -6,5 +6,7 @@ Un blog increible para el uso de Gi y gitHub
 
 
 - Todos los comandos de Git}
-- Flujo de trabajo en GitHub::
-- creado por fernando vacca
+- Flujo de trabajo en GitHub
+- Creado por Fernando vacca
+-Incluye ejemplos en Windows, mac y Linux
+-Disponible para todas la edades
